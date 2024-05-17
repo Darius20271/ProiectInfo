@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+ul li {
+    display: inline;
+    margin-right: 10px;
+    font-size: 30px;
+}
+ol {
+    text-align: center;
+    font-size: 30px;
+}
+p {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+img  {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
